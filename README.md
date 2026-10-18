@@ -38,3 +38,11 @@ During the trial runs of the robot, the following operational limitations were o
 Sunlight Interference: Solar infrared radiation affected the operation of the sensors due to their reliance on infrared technology.
 
 Object & Surface Detection Limits:** Low-height objects, small-sized objects, and dark-colored surfaces were not easily detected by the infrared sensors, causing the robot to fail to recognize them as obstacles and collide with them instead of avoiding them.
+
+
+
+
+
+
+https://github.com/user-attachments/assets/3f4bb506-f0ca-48cd-bd0c-60597ac2b2a5
+
